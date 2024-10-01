@@ -19,8 +19,7 @@ visitas online.
 
 ## 📋 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]
-(https://www.figma.com/design/Wjr8ML4BxnCoyAf2n9NAjd/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=58-415&node-type=frame&t=aehNtkZc4F7R9nrf-0). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Wjr8ML4BxnCoyAf2n9NAjd/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=58-415&node-type=frame&t=aehNtkZc4F7R9nrf-0). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
